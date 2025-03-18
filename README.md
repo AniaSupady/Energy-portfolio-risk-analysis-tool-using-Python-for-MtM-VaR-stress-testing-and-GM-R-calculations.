@@ -1,6 +1,8 @@
 # Energy-portfolio-risk-analysis-tool-using-Python-for-MtM-VaR-stress-testing-and-GM-R-calculations.
 Energy Portfolio Analysis: Python script for MtM calculation, VaR estimation, stress testing, and GM@R analysis of energy commodities. Includes visualizations and summary statistics for advanced risk management in energy trading.
 
+https://github.com/AniaSupady/Energy-portfolio-risk-analysis-tool-using-Python-for-MtM-VaR-stress-testing-and-GM-R-calculations./blob/main/Energy_Commodities_MtM_(Mark_to_Market)%2C_VaR_(Value_at_Risk)_and_GM_R_(Gross_Margin_at_Risk).ipynb
+
 
 # Comprehensive Energy Portfolio Analysis
 
